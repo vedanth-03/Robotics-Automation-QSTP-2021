@@ -1,4 +1,4 @@
-#Week2 submission
+Week-2 submission
 =================
 
 Files for question 1:
